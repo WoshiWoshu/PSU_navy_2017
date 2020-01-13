@@ -15,11 +15,14 @@ EXEMPLE :
 
 > ./navy pos1
 
-my_pid: 4242
-waiting for enemy connection...
-enemy connected
+> my_pid: 4242
+
+> waiting for enemy connection...
+
+> enemy connected
 
 > ./navy 4242 pos2
 
-my_pid: 4250
-successfully connected
+> my_pid: 4250
+
+> successfully connected
